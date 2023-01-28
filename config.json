@@ -1,6 +1,6 @@
 {
   "nikhil_1": {
-    "RESET": false,
+    "RESET": true,
     "TEST" : true
   }
 }
